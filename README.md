@@ -1,3 +1,6 @@
 ### Kyra | She/her
+## I am a new github user just doing random things that interest me.
 
-I am a new github user just doing random things that interest me. I will include links as soon as i understand them.
+# Socials
+- [Twitter](https://twitter.com/KyraberCrystal)
+- Discord ID: KyraberCrystal#1176
