@@ -1,5 +1,5 @@
 ### Kyra | She/her
-## I am a new github user just doing random things that interest me.
+## Hi I am trans mtf and I play lots of video games, if you would like to talk please visit my socials.
 
 # Socials
 - [Twitter](https://twitter.com/KyraberCrystal)
