@@ -4,3 +4,5 @@
 # Socials
 - [Twitter](https://twitter.com/KyraberCrystal)
 - Discord ID: KyraberCrystal#1176
+
+![alt text](https://github.com/kyrabercrystal/kyrabercrystal/blob/main/IMG_3105.jpeg?raw=true)
