@@ -5,4 +5,4 @@
 - [Twitter](https://twitter.com/KyraberCrystal)
 - Discord ID: KyraberCrystal#1176
 
-![megamind no bitches meme with the text "no contributions?"](https://github.com/kyrabercrystal/kyrabercrystal/blob/main/IMG_3105.jpeg?raw=true)
+![megamind no bitches meme with the text "no contributions?"](https://github.com/kyrabercrystal/kyrabercrystal/blob/main/meme.jpeg?raw=true)
