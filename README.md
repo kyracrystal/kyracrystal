@@ -3,6 +3,5 @@
 
 ## Socials
 - [Twitter](https://twitter.com/KyraberCrystal)
-- Discord ID: KyraberCrystal#1176
-
-![megamind no bitches meme with the text "no contributions?"](https://github.com/kyrabercrystal/kyrabercrystal/blob/main/meme.jpeg?raw=true)
+- [Instagram](https://www.instagram.com/kyrabercrystal)
+- kyrabercrystal on discord and you can have my phone number if we are close
