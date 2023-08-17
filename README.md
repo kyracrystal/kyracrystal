@@ -1,5 +1,5 @@
 # Kyra | She/her
-## Hi my name is Kyra and I am trans mtf. I produce 2D games in Unity (at least I try) and I design sprites. 
+## Hi my name is Kyra and I am trans mtf. I produce 2D games in Unity and I design sprites. 
 ### If you would like to speak with me please visit my socials or email me at kcdatemasch@gmail.com
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KyraberCrystal)
