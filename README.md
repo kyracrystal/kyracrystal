@@ -17,4 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyracrystal&show_icons=true&theme=radical&locale=en&layout=compact" alt="kyracrystal" /></p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/kyracrystal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyracrystal" /></a></p><br><br>
+<p align="center"><a href="https://ko-fi.com/kyracrystal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyracrystal" /></a></p><br><br>
